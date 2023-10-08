@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am a 24 year old frontend developer who is interested in full time work within developing and designing websites and good user experiences.
+I am a 25 year old frontend developer who is interested in full time work within developing and designing websites and good user experiences.
 
 - 🔭 I’m currently working on an **[RPG Party Maker Application](https://www.figma.com/proto/D1etYzzdXtWqJm20iWAGPZ/VENTURY?node-id=117%3A769&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=117%3A769&show-proto-sidebar=1)**
 
